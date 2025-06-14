@@ -56,7 +56,7 @@ export default function TechnicalMetrics() {
 							>
 								<h4 className="text-lg font-semibold text-gray-300">Competition Achievements</h4>
 								<ul className="mt-2 space-y-2 text-gray-400">
-									<li>• SIH'24 Runner-Up (National Level)</li>
+									<li>• SIH&apos;24 Runner-Up (National Level)</li>
 									<li>• UHACK 3.0 Winner (National Level)</li>
 									<li>• 15+ hackathons participated</li>
 								</ul>
