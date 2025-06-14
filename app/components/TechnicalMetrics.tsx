@@ -89,7 +89,7 @@ export default function TechnicalMetrics() {
 							>
 								<h4 className="text-lg font-semibold text-gray-300">Podcast & Education</h4>
 								<ul className="mt-2 space-y-2 text-gray-400">
-									<li>• Created "House of Turing" AI/ML podcast on Spotify</li>
+									<li>• Created &apos;House of Turing&apos; AI/ML podcast on Spotify</li>
 									<li>• Educational content reaching AI/ML community</li>
 									<li>• Promoting AI/ML awareness and learning</li>
 								</ul>
